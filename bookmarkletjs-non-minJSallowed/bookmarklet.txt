@@ -1,1 +1,1 @@
-javascript:function loadScript(src){f=document.createElement('script');if(f){f.setAttribute("type","text/javascript");f.setAttribute("src",src);document.getElementsByTagName("head")[0].appendChild(f);}};loadScript("yourscripturl");
+javascript:function loadScript(src){f=document.createElement('script');if(f){f.setAttribute("type","text/javascript");f.setAttribute("src",src);document.getElementsByTagName("head")[0].appendChild(f);}};loadScript("https://raw.githubusercontent.com/Th3SnowyOwl/coding-extras/master/bookmarkletjs-non-minJSallowed/divfinder.js");
