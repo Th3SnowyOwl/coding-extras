@@ -1,0 +1,1 @@
+javascript:(function(){var d=document;s=d.querySelector;s.call(d,'input[name*=user_id]').value='jondoe12345';s.call(d,'input[name*=password]').value='password12345';s.call(d,'button[id*=submit],input[type=button][id*=submitbutton],.button').click();}())
