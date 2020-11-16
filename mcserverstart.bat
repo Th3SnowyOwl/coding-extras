@@ -1,3 +1,3 @@
 @echo off
-java -Xms2048M -Xmx8192M -jar server.jar nogui
+java -Xms2048M -Xmx8192M -jar server.jar
 pause
