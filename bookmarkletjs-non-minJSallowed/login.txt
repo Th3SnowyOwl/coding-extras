@@ -1,7 +1,0 @@
-javascript:(function(){
-var d=document;
-s=d.querySelector;
-s.call(d,'input[name*=USERNAME_SOURCE_NAME]').value='YOUR_USERNAME_HERE';                               
-s.call(d,'input[name*=PASSWORD_SOURCE_NAME]').value='YOUR_PASSWORD_HERE';
-s.call(d,'button[id*=SUBMIT_BUTTON_NAME],input[type=button][id*=SOURCE_BUTTON_ID],.button').click();
-}())
