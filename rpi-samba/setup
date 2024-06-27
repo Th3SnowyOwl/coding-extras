@@ -1,0 +1,4 @@
+sudo apt-get install apache2 -y
+curl -sSL https://install.pi-hole.net | bash
+sudo apt install wsdd
+sudo apt install samba samba-common-bin
